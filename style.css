@@ -1,0 +1,69 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background: darkblue;
+}
+
+.header_div {
+    background: darkblue;
+    color: skyblue;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    background: darkblue;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+
+
+}
+
+#camera {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4{
+    background: white;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img {
+    width: 70px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
